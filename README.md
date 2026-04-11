@@ -72,7 +72,7 @@ Notebook), actively applying course skills to real-world aviation projects.
 
 ### ⚡ Outside of Data & Aviation
 
-I guide **@airfighters** on Instagram — an aviation community of **430K+ followers**. When I'm not working on my thesis or learning codding, I'm playing video games and running regularly (at least I am trying) content and slowly learning Deutch! 🤌
+I guide **@airfighters** on Instagram — an aviation community of **430K+ followers**. When I'm not working on my thesis or learning codding, I'm playing video games, running regularly (at least I am trying) and slowly learning Deutch! 🤌
 
 ---
 
