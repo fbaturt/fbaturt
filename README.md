@@ -1,25 +1,83 @@
 # Hi there, I'm Furkan Batur Tavli! 👋
 
-I am an Aeronautical Engineer based in Riga, Latvia, currently expanding my expertise into the world of Data Analytics and Product Management.
+I am an **Aeronautical Engineer** based in Riga, Latvia, combining hands-on 
+aviation experience with a growing specialisation in **Data Analytics**. 
+My goal is to work in the aviation industry — ideally at an airline — where 
+I can use data to solve real operational and engineering problems.
 
-With a background in aviation maintenance planning, engineering administration, and technical documentation, I am passionate about leveraging data to optimize complex systems, improve safety, and streamline operations. I am currently completing my **MSc in Mechanical Engineering (Aviation Transport)** at Riga Technical University. 
+With background experience at **SmartLynx Airlines** and **AMAC Aerospace** 
+in MRO operations, maintenance planning, and avionics administration, I bring 
+domain knowledge that most data analysts simply don't have. I know what an 
+Airworthiness Directive is. I've worked with AMOS and OASES. I understand 
+what the data means — not just how to query it.
 
-My master's thesis focuses on the "**Evaluation of Classical Fault Detection Methods for Aircraft Air Data Sensors Using Simulated Flight Data**".
+I am currently completing my **MSc in Mechanical Engineering (Aviation 
+Transport)** at Riga Technical University.
 
-### 🛠️ Tech Stack & Aviation Expertise
-* **Aviation Systems:** AMOS, OASES, AirnavX, ROAM
-* **Data Analytics & Visualization:** SQL, BigQuery, Tableau, Google Sheets, Cohort Analysis
-* **Product Analytics:** Google Analytics 4 (GA4), Amplitude Tracking Plans, User Journey Mapping, Metric Definition (TTFV, Conversion Rates)
-* **Engineering Operations:** Airworthiness Directives (AD) & Service Bulletins (SB) tracking, Technical Writing, Maintenance Planning
+My master's thesis: **"Evaluation of Classical Fault Detection Methods for 
+Aircraft Air Data Sensors Using Simulated Flight Data"** — applying 
+statistical signal processing and Python-based data pipelines to sensor 
+anomaly detection.
+
+---
+
+### 🛠️ Tech Stack
+
+**Core Languages**
+`Python (Pandas, NumPy, Matplotlib, Seaborn)` · `SQL (CTEs, Window Functions, 
+JSON unnesting)` · `Google BigQuery` · `PostgreSQL`
+
+**Business Intelligence & Visualisation**
+`Tableau` · `Power BI` · `Google Sheets`
+
+**Product & Web Analytics**
+`Google Analytics 4 (GA4)` · `Amplitude` · `User Journey Mapping` · 
+`Event Taxonomy Design` · `TTFV`
+
+**Aviation Systems**
+`AMOS` · `OASES` · `AirnavX` · `ROAM` · `ADS-B / OpenSky Network`
+
+---
 
 ### 🚀 What I'm Working On
-* 🎓 Finalizing my master's thesis on simulated flight data and sensor fault detection.
-* 📊 Building my data analytics portfolio, including advanced SaaS retention and onboarding funnels using **Tableau** and **BigQuery**.
-* 🗺️ Designing comprehensive product tracking architectures (like reverse-engineering the **Flightradar24** user journey) and analyzing web/app flows using **GA4**.
+
+* ✈️ **European Airspace Fleet Analysis** — fetching live ADS-B data from 
+OpenSky Network API, classifying flight phases, and analysing aircraft 
+behaviour patterns across European airspace using Python and Pandas.
+* 📊 **Instagram Analytics for @airfighters** — building a social media 
+performance analysis framework for a 430K+ follower aviation page, covering 
+audience growth, engagement rates, and content strategy.
+* 🎓 **MSc Thesis** — finalising sensor fault detection research using 
+simulated flight data and classical statistical methods.
+* 📚 **Data Analytics Course** — currently in Block 4 (Python & Jupyter 
+Notebook), actively applying course skills to real-world aviation projects.
+
+---
+
+### 📁 Portfolio
+
+🔗 [Data Analytics Portfolio](https://github.com/fbaturt/Data-Analytics-Portfolio)
+
+| Project | Tools | Focus |
+| :--- | :--- | :--- |
+| European Airspace Fleet Analysis | `Python`, `OpenSky API`, `Pandas` | Live ADS-B data, flight phase classification |
+| Instagram Analytics (@airfighters) | `Python`, `Pandas`, `Seaborn` | Audience growth, content performance |
+| SQL Database & Marketing Analytics | `SQL`, `BigQuery`, `GA4` | ROMI, funnel diagnostics |
+| SaaS Funnel Dashboard | `Power BI`, `Tableau` | User journey, drop-off analysis |
+| Product Tracking Architecture | `Excel`, `Amplitude` | Event taxonomy, TTFV mapping |
+| GA4 E-commerce Conversion Funnel | `GA4`, `SQL` | Conversion behaviour |
+| SaaS MRR & Retention Analytics | `Python`, `Power BI` | Churn, cohort retention |
+
+---
 
 ### ⚡ Outside of Data & Aviation
-When I am not analyzing flight data or tracking maintenance schedules, I am currently studying Italian!🤌
+
+I guide **@airfighters** on Instagram — an aviation community of **430K+ followers**. When I'm not working on my thesis or learning codding, I'm playing video games and running regularly (at least I am trying) content and slowly learning Deutch! 🤌
+
+---
 
 ### 📫 Let's Connect
+
 * [LinkedIn](https://www.linkedin.com/in/fbaturtavli/)
 * [Email](mailto:furkanbaturtavli@gmail.com)
+* [Instagram](https://www.instagram.com/fbaturt/)
