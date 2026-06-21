@@ -1,13 +1,13 @@
 <div align="center">
 
 # Furkan Batur Tavli
-### Mechanical Engineer · Data Analytics · Aviation Operations
+### Mechanical Engineer · Data Analytics · AI Promt Engineer
 
 *Bridging aviation domain expertise with data-driven engineering*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-batur-tavli/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanbaturtavli@gmail.com)
-[![Instagram](https://img.shields.io/badge/@airfighters-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fbaturt/)
+[![Instagram](https://img.shields.io/badge/@fbaturt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fbaturt/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fbaturt/Data-Analytics-Portfolio)
 
 </div>
@@ -20,9 +20,9 @@ Mechanical Engineer (Aviation Transport) with hands-on TSE experience at **Smart
 
 I combine deep aviation domain knowledge — AD/SB forecasting, WQAR monitoring, airworthiness compliance, MRO operations — with applied data analytics skills in SQL, Python, and BI tooling. My goal is to work at the intersection of both: using data to solve real aviation engineering and operational problems.
 
-Currently finalising my **MSc thesis** on classical fault detection methods for aircraft air data sensors using simulated flight data, and completing an advanced data analytics course with a focus on product and growth analytics.
+Recently completed my **MSc in Mechanical Engineering (Aviation Transport)** at Riga Technical University, with a thesis applying classical fault detection methods to aircraft air data sensor data using simulated flight data.
 
-> 📍 Riga, Latvia · 🇪🇺 Valid EU work authorisation until 12/2026 · Open to relocation across EU & UK
+> 📍 Riga, Latvia · 🇪🇺 Valid LV work authorisation until 12/2026 · Open to relocation across EU & UK
 
 ---
 
@@ -60,24 +60,37 @@ Currently finalising my **MSc thesis** on classical fault detection methods for 
 | Project | Description | Stack |
 |---|---|---|
 | ✈️ **European Airspace Fleet Analysis** | Live ADS-B data from OpenSky Network API — flight phase classification and aircraft behaviour patterns across European airspace | `Python` `Pandas` `OpenSky API` |
-| 📊 **Instagram Analytics (@airfighters)** | Performance framework for a 430K+ follower aviation community — audience growth, engagement rates, content strategy | `Python` `Pandas` `Seaborn` |
-| 🎓 **MSc Thesis** | Sensor fault detection for aircraft air data systems using classical statistical methods on simulated flight data | `Python` `MATLAB` |
+| 📊 **Data Analytics Course** | Currently in Block 4 (Python & Jupyter Notebook) — applying course skills to real-world aviation and product analytics problems | `Python` `SQL` `Tableau` |
 
 ---
 
-## 📁 Data Analytics Portfolio
+## 📁 Featured Projects
+
+### 🎓 MSc Thesis — Aircraft Air Data Sensor Fault Detection
+> *Riga Technical University · MSc Mechanical Engineering (Aviation Transport)*
+
+Classical fault detection methods (threshold-based and rate-of-change) evaluated against **bias** and **freeze** faults across simulated airspeed sensor data. 600 Monte Carlo runs across varying noise levels and flight phases (climb/descent).
+
+🔗 **[View Thesis Repository →](https://github.com/fbaturt/msc-thesis-sensor-fault-detection)**
+
+**Key results:** Rate-of-change detector outperformed threshold method under high noise; bias faults detected with <2s delay at medium noise; false alarm rates remained below 5% across all scenarios.
+
+`Python` `MATLAB` `Signal Processing` `Monte Carlo Simulation` `Fault Detection`
+
+---
+
+### 📊 Data Analytics Portfolio
 
 🔗 **[View Full Portfolio →](https://github.com/fbaturt/Data-Analytics-Portfolio)**
 
 | # | Project | Tools | Focus |
 |---|---|---|---|
 | 01 | European Airspace Fleet Analysis | `Python` `OpenSky API` `Pandas` | Live ADS-B, flight phase classification |
-| 02 | Instagram Analytics (@airfighters) | `Python` `Pandas` `Seaborn` | Audience growth, content performance |
-| 03 | SQL Database & Marketing Analytics | `SQL` `BigQuery` `GA4` | ROMI, funnel diagnostics |
-| 04 | SaaS Funnel Dashboard | `Power BI` `Tableau` | User journey, drop-off analysis |
-| 05 | Product Tracking Architecture | `Excel` `Amplitude` | Event taxonomy, TTFV mapping |
-| 06 | GA4 E-commerce Conversion Funnel | `GA4` `SQL` | Conversion behaviour |
-| 07 | SaaS MRR & Retention Analytics | `Python` `Power BI` | Churn, cohort retention |
+| 02 | SQL Database & Marketing Analytics | `SQL` `BigQuery` `GA4` | ROMI, funnel diagnostics |
+| 03 | SaaS Funnel Dashboard | `Power BI` `Tableau` | User journey, drop-off analysis |
+| 04 | Product Tracking Architecture | `Excel` `Amplitude` | Event taxonomy, TTFV mapping |
+| 05 | GA4 E-commerce Conversion Funnel | `GA4` `SQL` | Conversion behaviour |
+| 06 | SaaS MRR & Retention Analytics | `Python` `Power BI` | Churn, cohort retention |
 
 ---
 
@@ -85,7 +98,7 @@ Currently finalising my **MSc thesis** on classical fault detection methods for 
 
 <div align="center">
 
-![Furkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fbaturt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Batur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fbaturt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fbaturt&layout=compact&theme=github_dark&hide_border=true)
 
@@ -95,7 +108,7 @@ Currently finalising my **MSc thesis** on classical fault detection methods for 
 
 ## ✈️ Aviation Community
 
-I managed **[@airfighters](https://www.instagram.com/fbaturt/)** on Instagram — an aviation community of **430K+ followers** focused on aviation photography.
+I manage **[@airfighters](https://www.instagram.com/fbaturt/)** on Instagram — an aviation community of **430K+ followers** focused on aviation photography.
 
 ---
 
