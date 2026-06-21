@@ -1,7 +1,7 @@
 <div align="center">
 
 # Furkan Batur Tavli
-### Mechanical Engineer · Data Analytics · AI Promt Engineer
+### Mechanical Engineer · Data Analytics
 
 *Bridging aviation domain expertise with data-driven engineering*
 
