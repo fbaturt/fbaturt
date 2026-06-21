@@ -78,6 +78,6 @@ I guide **@airfighters** on Instagram — an aviation community of **430K+ follo
 
 ### 📫 Let's Connect
 
-* [LinkedIn](https://www.linkedin.com/in/fbaturtavli/)
+* [LinkedIn](https://www.linkedin.com/in/furkan-batur-tavli/)
 * [Email](mailto:furkanbaturtavli@gmail.com)
 * [Instagram](https://www.instagram.com/fbaturt/)
