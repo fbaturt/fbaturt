@@ -108,7 +108,7 @@ Classical fault detection methods (threshold-based and rate-of-change) evaluated
 
 ## ✈️ Aviation Community
 
-I manage **[@airfighters](https://www.instagram.com/fbaturt/)** on Instagram — an aviation community of **430K+ followers** focused on aviation photography.
+I managed **[@airfighters](https://www.instagram.com/fbaturt/)** on Instagram — an aviation community of **430K+ followers** focused on aviation photography.
 
 ---
 
