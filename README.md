@@ -42,11 +42,6 @@ Recently completed my **MSc in Mechanical Engineering (Aviation Transport)** at 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
-**Product & Web Analytics**
-
-![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Amplitude-0099FF?style=flat-square&logo=amplitude&logoColor=white)
-
 **Aviation Systems**
 
 ![AMOS](https://img.shields.io/badge/AMOS-003366?style=flat-square&logoColor=white)
