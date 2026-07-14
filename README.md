@@ -42,6 +42,11 @@ Recently completed my **MSc in Mechanical Engineering (Aviation Transport)** at 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
+**Product & Web Analytics**
+
+![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-0099FF?style=flat-square&logo=amplitude&logoColor=white)
+
 **Aviation Systems**
 
 ![AMOS](https://img.shields.io/badge/AMOS-003366?style=flat-square&logoColor=white)
@@ -52,10 +57,10 @@ Recently completed my **MSc in Mechanical Engineering (Aviation Transport)** at 
 
 ## 🚀 What I'm Working On
 
-| Project | Description | Stack |
+| Focus | Description | Stack |
 |---|---|---|
-| ✈️ **European Airspace Fleet Analysis** | Live ADS-B data from OpenSky Network API — flight phase classification and aircraft behaviour patterns across European airspace | `Python` `Pandas` `OpenSky API` |
-| 📊 **Data Analytics Course** | Currently in Block 4 (Python & Jupyter Notebook) — applying course skills to real-world aviation and product analytics problems | `Python` `SQL` `Tableau` |
+| 📊 **Data Analytics Course** | Completing the final capstone projects — applying SQL, Python, and BI to real product and financial analytics problems | `Python` `SQL` `Tableau` |
+| 🛫 **Aviation Analytics** | Extending my portfolio into aviation-specific case studies — on-time performance, MRO KPIs, and operational reliability | `Python` `SQL` `Power BI` |
 
 ---
 
@@ -68,7 +73,7 @@ Classical fault detection methods (threshold-based and rate-of-change) evaluated
 
 🔗 **[View Thesis Repository →](https://github.com/fbaturt/msc-thesis-sensor-fault-detection)**
 
-**Key results:** Rate-of-change detector outperformed threshold method under high noise; bias faults detected with <2s delay at medium noise; false alarm rates remained below 5% across all scenarios.
+**Key results:** Both detectors caught bias faults almost instantly with zero missed detections. For freeze faults, the rate-of-change detector caught every case (~5s delay) while the threshold method missed them entirely at low-to-medium noise — a clear, safety-relevant finding.
 
 `Python` `MATLAB` `Signal Processing` `Monte Carlo Simulation` `Fault Detection`
 
@@ -80,24 +85,11 @@ Classical fault detection methods (threshold-based and rate-of-change) evaluated
 
 | # | Project | Tools | Focus |
 |---|---|---|---|
-| 01 | European Airspace Fleet Analysis | `Python` `OpenSky API` `Pandas` | Live ADS-B, flight phase classification |
-| 02 | SQL Database & Marketing Analytics | `SQL` `BigQuery` `GA4` | ROMI, funnel diagnostics |
-| 03 | SaaS Funnel Dashboard | `Power BI` `Tableau` | User journey, drop-off analysis |
-| 04 | Product Tracking Architecture | `Excel` `Amplitude` | Event taxonomy, TTFV mapping |
-| 05 | GA4 E-commerce Conversion Funnel | `GA4` `SQL` | Conversion behaviour |
-| 06 | SaaS MRR & Retention Analytics | `Python` `Power BI` | Churn, cohort retention |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Batur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fbaturt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fbaturt&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+| 01 | SQL Database & Marketing Analytics | `SQL` `BigQuery` `PostgreSQL` | ROMI, gaps-and-islands, GA4 funnel |
+| 02 | SaaS Funnel Dashboard | `Power BI` `Tableau` | Live currency API, supply chain lead time |
+| 03 | Product Tracking Architecture | `Amplitude` `Excel` | Event taxonomy, TTFV mapping |
+| 04 | GA4 E-commerce Conversion Funnel | `BigQuery` `SQL` `Tableau` | 7-step funnel, drop-off analysis |
+| 05 | SaaS MRR & Retention Analytics | `PostgreSQL` `Tableau` | MRR decomposition, churn dynamics |
 
 ---
 
